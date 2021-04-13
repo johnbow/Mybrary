@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 .env
 .vscode
 node_modules
-=======
-.vscode
-.env
-node_modules
->>>>>>> fb84af2 (Create .gitignore)
